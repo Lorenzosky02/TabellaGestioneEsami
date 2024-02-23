@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"Tabella","l":"FilterLogic"},{"p":"Tabella","l":"InterfacciaGestione"},{"p":"Tabella","l":"PannelloOperazioni"},{"p":"Tabella","l":"Tabella"},{"p":"Tabella","l":"TablePanel"}];updateSearchResults();

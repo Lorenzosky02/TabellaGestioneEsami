@@ -1,0 +1,4 @@
+NomeEsame		Studente		CFU		Voto		Lode
+
+Analisi	Lorenzo	9	18.0	no	
+

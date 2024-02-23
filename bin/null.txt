@@ -1,0 +1,5 @@
+Analisi,	Lorenzo,	9,	18.0,	no,	
+Algebra,	Lorenzo,	9,	19.0,	no,	
+fisica,	Lorenzo,	9,	30.0,	si,	
+PO (C),	Lorenzo,	9,	24.0,	no,	
+masturbazione 3,	rosa pisello,	6,	30.0,	no,	
